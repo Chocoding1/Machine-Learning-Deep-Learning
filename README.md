@@ -1,1 +1,1 @@
-# Machine-Learning-Deep-Learning
+# 머신러닝, 딥러닝 공부 기록
